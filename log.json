@@ -1,0 +1,1 @@
+{"timestamp":"2023-06-28T15:19:45.6536649+07:00","ip_address":"127.0.0.1","method":"POST","url":"/signup","request_body":"{\n  \"username\": \"john_doe\",\n  \"phone_number\": \"123456789\",\n  \"email\": \"john.doe@example.com\",\n  \"password\": \"password123\",\n  \"password_confirm\": \"password123\"\n}","latency":0,"status_code":400}
